@@ -1,4 +1,4 @@
-<?php  // Moodle configuration file
+<?php  // Moodle configuration file on windows
 
 unset($CFG);
 global $CFG;
