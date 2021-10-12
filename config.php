@@ -18,7 +18,7 @@ $CFG->dboptions = array (
   'dbcollation' => 'utf8mb4_general_ci',
 );
 
-$CFG->wwwroot   = 'https://localhost/moodle';
+$CFG->wwwroot   = 'https://localhost/moodleg/moodle';
 $CFG->dataroot  = 'C:\\xampp\\formationdata';
 $CFG->admin     = 'admin';
 
